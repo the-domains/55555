@@ -1,0 +1,14 @@
+layout_spectrum: 0.6591479
+typography_spectrum: 0.2619048
+color:
+  saturation: 0.3975361
+  lightness: 0.08872778
+  brandStrength: 0.3744588
+  rhythmicContrast: 0.3978804
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: '55555'
